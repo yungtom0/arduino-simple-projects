@@ -1,0 +1,21 @@
+# system
+.DS_Store
+Thumbs.db
+
+# edytory
+.vscode/
+*.swp
+
+# build/artifacts
+build/
+*.hex
+*.elf
+*.bin
+
+# temp/backup
+*.log
+*.tmp
+*.bak
+
+# images large or generated (jeśli chcesz ignorować)
+# *.jpeg
