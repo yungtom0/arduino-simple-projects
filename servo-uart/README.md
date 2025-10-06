@@ -1,4 +1,4 @@
-\# UART-controlled servo
+# UART-controlled servo
 
 
 
@@ -14,11 +14,11 @@ Project that allows you to control servo motor by UART messages.
 
 
 
-\## Photo
+## Photo
 
 
 
-!\[Project setup](photo.jpeg)
+![Project setup](photo.jpeg)
 
 
 
@@ -26,16 +26,13 @@ Project that allows you to control servo motor by UART messages.
 
 
 
-\## Required elements
+## Required elements
 
 
 
-\* Arduino Uno connected do PC
-
+* Arduino Uno connected do PC
 * 9V battery
-
-\* breadboard
-
+* breadboard
 * linear voltage regulator LM7805
 * ceramic capacitor 2x
 * servo motor
@@ -45,11 +42,12 @@ Project that allows you to control servo motor by UART messages.
 
 
 
-\## Code
+## Code
 
 
 
 Code file: servo-uart.ino
+
 
 
 
