@@ -1,4 +1,4 @@
-\# Analog light sensor with calibration mode
+# Analog light sensor with calibration mode
 
 
 
@@ -14,11 +14,11 @@ Project that allows you first to calibrate lighting conditions in your room, and
 
 
 
-\## Photo
+## Photo
 
 
 
-!\[Project setup](photo.jpeg)
+![Project setup](photo.jpeg)
 
 
 
@@ -26,16 +26,13 @@ Project that allows you first to calibrate lighting conditions in your room, and
 
 
 
-\## Required elements
+## Required elements
 
 
 
-\* Arduino Uno connected do PC
-
+* Arduino Uno connected do PC
 * 9V battery
-
-\* breadboard
-
+* breadboard
 * linear voltage regulator LM7805
 * ceramic capacitor 2x
 * servo motor
@@ -49,11 +46,12 @@ Project that allows you first to calibrate lighting conditions in your room, and
 
 
 
-\## Code
+## Code
 
 
 
 Code file: analog-light-sensor.ino
+
 
 
 
