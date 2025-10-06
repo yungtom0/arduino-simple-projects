@@ -1,4 +1,4 @@
-\# Guess the potentiometer value game on Arduino
+# Guess the potentiometer value game on Arduino
 
 
 
@@ -6,13 +6,13 @@ Simple game, with diodes to show actuall state of game.
 
 
 
-\## Photo
+## Photo
 
 Picture of this project: photo.jpeg
 
 
 
-\## Required elements
+## Required elements
 
 * Arduino Uno connected do PC
 * 3x LED (red, yellow, green)
@@ -24,7 +24,7 @@ Picture of this project: photo.jpeg
 
 
 
-\## Code
+## Code
 
 Code file: guess-the-potentiometer-value.ino
 
