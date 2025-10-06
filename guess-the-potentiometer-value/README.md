@@ -8,7 +8,7 @@ Simple game, with diodes to show actuall state of game.
 
 ## Photo
 
-Picture of this project: photo.jpeg
+![Project setup](photo.jpeg)
 
 
 
