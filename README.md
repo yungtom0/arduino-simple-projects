@@ -1,4 +1,4 @@
-\# Arduino simple projects
+# Arduino simple projects
 
 
 
@@ -8,7 +8,7 @@ Each projects have their own .ino file, README.md file and schematic photo of th
 
 
 
-\## Projects
+## Projects
 
 * guess-the-potentiometer-value
 * light-detector
