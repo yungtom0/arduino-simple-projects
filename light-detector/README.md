@@ -1,4 +1,4 @@
-\# Light detector on Arduino
+# Light detector on Arduino
 
 
 
@@ -6,13 +6,13 @@ Project that shows direction of light source on diodes on Arduino.
 
 
 
-\## Photo
+## Photo
 
-Picture of this project: photo.jpeg
+![Project setup](photo.jpeg)
 
 
 
-\## Required elements
+## Required elements
 
 * Arduino Uno connected do PC
 * breadboard
@@ -24,7 +24,7 @@ Picture of this project: photo.jpeg
 
 
 
-\## Code
+## Code
 
 Code file: light-detector.ino
 
