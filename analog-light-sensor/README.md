@@ -1,10 +1,4 @@
-\# Analog light sensor with calibration mode
-
-
-
-
-
-
+# Analog light sensor with calibration mode
 
 A project that allows you to first calibrate the lighting conditions in your room and then displays the percentage level of lighting there.
 
@@ -12,30 +6,19 @@ A project that allows you to first calibrate the lighting conditions in your roo
 
 
 
+## Photo
 
-
-\## Photo
-
-
-
-!\[Project setup](photo.jpeg)
+![Project setup](photo.jpeg)
 
 
 
 
 
+## Required elements
 
-
-\## Required elements
-
-
-
-\* Arduino Uno connected to PC
-
+* Arduino Uno connected to PC
 * 9V battery
-
-\* breadboard
-
+* breadboard
 * linear voltage regulator LM7805
 * ceramic capacitor 2x
 * servo motor
@@ -49,9 +32,6 @@ A project that allows you to first calibrate the lighting conditions in your roo
 
 
 
-\## Code
-
-
+## Code
 
 Code file: analog-light-sensor.ino
-
