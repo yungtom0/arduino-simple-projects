@@ -2,9 +2,9 @@
 
 
 
-Set of small projects, that I've made while making the Arduino course by forbot.pl.
+Set of small projects that I've made while making the Arduino course by forbot.pl.
 
-Each project have it own .ino file, README.md file and schematic photo of the system.
+Each project has its own .ino file, README.md file, and schematic photo of the system.
 
 
 

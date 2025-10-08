@@ -2,7 +2,7 @@
 
 
 
-Simple game, with diodes to show actuall state of game.
+Simple game with diodes to show the actual state of the game.
 
 
 
@@ -14,7 +14,7 @@ Simple game, with diodes to show actuall state of game.
 
 ## Required elements
 
-* Arduino Uno connected do PC
+* Arduino Uno connected to PC
 * 3x LED (red, yellow, green)
 * 3x resistor 300 Ohm
 * tact switch

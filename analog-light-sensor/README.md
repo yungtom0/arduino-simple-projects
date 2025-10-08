@@ -6,7 +6,7 @@
 
 
 
-Project that allows you first to calibrate lighting conditions in your room, and then shows percentage level of lighting there.
+A project that allows you to first calibrate the lighting conditions in your room and then displays the percentage level of lighting there.
 
 
 
@@ -30,7 +30,7 @@ Project that allows you first to calibrate lighting conditions in your room, and
 
 
 
-\* Arduino Uno connected do PC
+\* Arduino Uno connected to PC
 
 * 9V battery
 
@@ -54,6 +54,4 @@ Project that allows you first to calibrate lighting conditions in your room, and
 
 
 Code file: analog-light-sensor.ino
-
-
 

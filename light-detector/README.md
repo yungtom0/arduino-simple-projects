@@ -2,7 +2,7 @@
 
 
 
-Project that shows direction of light source on diodes on Arduino.
+A project that shows the direction of the light source on the diodes on Arduino.
 
 
 
@@ -14,7 +14,7 @@ Project that shows direction of light source on diodes on Arduino.
 
 ## Required elements
 
-* Arduino Uno connected do PC
+* Arduino Uno connected to PC
 * breadboard
 * 5x LED (same color)
 * 5x resistor 300 Ohm

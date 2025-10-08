@@ -6,7 +6,7 @@
 
 
 
-Project that allows you to control servo motor by UART messages.
+A project that allows you to control a servo motor by UART messages.
 
 
 
@@ -30,7 +30,7 @@ Project that allows you to control servo motor by UART messages.
 
 
 
-\* Arduino Uno connected do PC
+\* Arduino Uno connected to PC
 
 * 9V battery
 
@@ -50,12 +50,4 @@ Project that allows you to control servo motor by UART messages.
 
 
 Code file: servo-uart.ino
-
-
-
-
-
-
-
-
 

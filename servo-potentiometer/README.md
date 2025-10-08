@@ -6,7 +6,7 @@
 
 
 
-Project that allows you to control servo motor by potentiometer position.
+A project that allows you to control a servo motor by potentiometer position.
 
 
 
@@ -30,7 +30,7 @@ Project that allows you to control servo motor by potentiometer position.
 
 
 
-\* Arduino Uno connected do PC
+\* Arduino Uno connected to PC
 
 * 9V battery
 
@@ -51,6 +51,4 @@ Project that allows you to control servo motor by potentiometer position.
 
 
 Code file: servo-ptentiometer.ino
-
-
 
