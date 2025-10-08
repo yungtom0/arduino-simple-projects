@@ -15,3 +15,7 @@ Each project has its own .ino file, README.md file, and schematic photo of the s
 * servo-uart
 * servo-potentiometer
 * analog-light-sensor
+* timer
+* two-enginges
+* distance-sensor
+* dice
