@@ -1,4 +1,4 @@
-\# Dice game
+# Dice game
 
 
 
@@ -14,15 +14,15 @@ You can simulate throwing a dice and get a random number from 1 to 6.
 
 
 
-\## How to bulid
+## How to bulid
 
-Just connect tact switch to breadbord and plug it to arduino digital input\_pullup.
-
-
+Just connect tact switch to breadbord and plug it to arduino digital input_pullup.
 
 
 
-\## Required elements
+
+
+## Required elements
 
 
 
@@ -35,7 +35,7 @@ Just connect tact switch to breadbord and plug it to arduino digital input\_pull
 
 
 
-\## Code
+## Code
 
 
 
