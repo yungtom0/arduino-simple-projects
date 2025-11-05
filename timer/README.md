@@ -1,4 +1,4 @@
-\# Timer
+# Timer
 
 
 
@@ -14,11 +14,11 @@ A project that allows you to measure time with 0.1-second accuracy.
 
 
 
-\## Photo
+## Photo
 
 
 
-!\[Project setup](photo.jpeg)
+![Project setup](photo.jpeg)
 
 
 
@@ -26,7 +26,7 @@ A project that allows you to measure time with 0.1-second accuracy.
 
 
 
-\## Required elements
+## Required elements
 
 
 
@@ -39,7 +39,7 @@ A project that allows you to measure time with 0.1-second accuracy.
 
 
 
-\## Code
+## Code
 
 
 
