@@ -1,4 +1,4 @@
-\# Two engines simulation
+# Two engines simulation
 
 
 
@@ -14,11 +14,11 @@ The simulation of two DC motors working together and changing rotate direction. 
 
 
 
-\## Photo
+## Photo
 
 
 
-!\[Project setup](photo.jpeg)
+![Project setup](photo.jpeg)
 
 
 
@@ -26,7 +26,7 @@ The simulation of two DC motors working together and changing rotate direction. 
 
 
 
-\## Required elements
+## Required elements
 
 
 
@@ -39,7 +39,7 @@ The simulation of two DC motors working together and changing rotate direction. 
 
 
 
-\## Code
+## Code
 
 
 
