@@ -1,4 +1,4 @@
-# Two engines simulation
+# Distance sensor
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-The simulation of two DC motors working together and changing rotate direction. The color of the diode symbolizes direction, and its light intensity symbolizes rotation speed.
+The project with distance sensor and six diodes to show the distance between sensor and object.
 
 
 
